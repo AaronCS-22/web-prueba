@@ -6,3 +6,4 @@ for (let i = 1; i <= 100; i++){
 }
 console.log(sum);
 console.log("Segundo texto");
+console.log(2+2);
